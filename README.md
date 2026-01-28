@@ -18,7 +18,7 @@ This repository is released under the MIT License. See `LICENSE`.
 If you use the contents of this repository, please cite the project in the following format:
 
 ```
-@Misc{OS-PAQAGE,
+@Misc{osPAQAGE,
   author = {Shirai, Shotaro and Noguchi, Atsushi},
   title = {{OS-PAQAGE}: A open source microwave packaging for quantum systems},
   year = {2025--},
