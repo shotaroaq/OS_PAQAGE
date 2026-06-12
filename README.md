@@ -22,7 +22,7 @@ If you use the contents of this repository, please cite the project in the follo
   author = {Shirai, Shotaro and Noguchi, Atsushi},
   title = {{OS-PAQAGE}: A open source microwave packaging for quantum systems},
   year = {2025--},
-  url = "https://doi.org/10.5281/zenodo.18399469",
+  url = "https://doi.org/10.5281/zenodo.18399470",
   note = {[Online; accessed <today>]}
 }
 ```
